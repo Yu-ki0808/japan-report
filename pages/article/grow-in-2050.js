@@ -26,7 +26,7 @@ export default function Article() {
                 <p>世界は今、大きな変化の真っただ中にあります。スマートフォンやインターネットが当たり前になったように、これからも技術の進歩によって私たちの生活や仕事は大きく変わっていきますが、心配する必要はありません。<br/>変化を理解して準備をすれば、未来は大きなチャンスに満ちています。</p>
 
                 <h2 id="chapter1">第1章：今起きている大きな変化</h2>
-                <img src="/img/pageImg/2-1.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第1章：今起きている大きな変化" />
+                <img src="./img/pageImg/2-1.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第1章：今起きている大きな変化" />
 
                 <h3 id="section1-1">1-1. デジタル革命の加速</h3>
                 <p>みなさんが生まれた頃から、世界はすでにデジタル技術によって大きく変わり始めて、今はさらに次のような変化が起きています。</p>
@@ -50,7 +50,7 @@ export default function Article() {
                 <p><strong>資源の制約</strong>：石油や天然ガスなどの化石燃料だけでなく、水や食料などの資源も世界的に不足の懸念があり、限られた資源を有効に使う技術やシステムが求められています。</p>
 
                 <h2 id="chapter2">第2章：2050年に向けての予測</h2>
-                <img src="/img/pageImg/2-2.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第2章：2050年に向けての予測" />
+                <img src="./img/pageImg/2-2.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第2章：2050年に向けての予測" />
                 <p>これらの変化を踏まえて、2050年の世界はどうなっているでしょうか。</p>
 
                 <h3 id="section2-1">2-1. 技術の発展</h3>
@@ -68,7 +68,7 @@ export default function Article() {
                 <p><strong>新しい社会保障</strong>：AIやロボットによる自動化で多くの仕事が減少する一方、全ての人に最低限の生活を保障するベーシックインカム（最低所得保障）のような制度が導入されている可能性があります。</p>
 
                 <h2 id="chapter3">第3章：減る仕事と増える仕事</h2>
-                <img src="/img/pageImg/2-3.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第3章：減る仕事と増える仕事" />
+                <img src="./img/pageImg/2-3.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第3章：減る仕事と増える仕事" />
                 <h3 id="section3-1">3-1. 減っていく可能性が高い仕事</h3>
                 <p><strong>定型的なデータ処理</strong>：経理、データ入力、書類作成など、決まったルールに従って処理する仕事はAIに置き換わるでしょう。</p>
 
@@ -94,7 +94,7 @@ export default function Article() {
                 <p><strong>倫理的問題の専門家</strong>：AIや遺伝子工学などの新技術がもたらす倫理的問題を考え、解決策を提案する専門家が必要になります。</p>
 
                 <h2 id="chapter4">第4章：変わる働き方</h2>
-                <img src="/img/pageImg/2-4.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第4章：変わる働き方" />
+                <img src="./img/pageImg/2-4.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第4章：変わる働き方" />
 
                 <h3 id="section4-1">4-1. 場所と時間の自由化</h3>
                 <p><strong>どこでも働ける</strong>：オフィスに通わなくても、自宅やカフェ、旅先、さらには別の国からでも仕事ができるようになります。田舎に住みながら都市の会社で働くことも普通になるでしょう。</p>
@@ -114,7 +114,7 @@ export default function Article() {
                 <p><strong>パーパス（目的）重視</strong>：お金や地位のためだけではなく、自分の人生の目的や社会への貢献を重視した働き方を選ぶ人が増えるでしょう。</p>
 
                 <h2 id="chapter5">第5章：未来を生き抜くための必要なスキル</h2>
-                <img src="/img/pageImg/2-5.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第5章：未来を生き抜くための必要なスキル" />
+                <img src="./img/pageImg/2-5.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第5章：未来を生き抜くための必要なスキル" />
                 <p>では、このような未来を生き抜くために、どのようなスキルが必要になるでしょうか。</p>
 
                 <h3 id="section5-1">5-1. 技術的スキル</h3>
@@ -147,7 +147,7 @@ export default function Article() {
                 <p><strong>未来予測力</strong>：変化の兆しを読み取り、先を見据えて行動する力が成功の鍵になります。</p>
 
                 <h2 id="chapter6">第6章：中学生のみなさんへのアドバイス</h2>
-                <img src="/img/pageImg/2-6.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第6章：中学生のみなさんへのアドバイス" />
+                <img src="./img/pageImg/2-6.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第6章：中学生のみなさんへのアドバイス" />
                 <p>最後に、未来の社会を担う中学生のみなさんへ、具体的なアドバイスをお伝えします。</p>
 
                 <h3 id="section6-1">6-1. 今からできる準備</h3>
@@ -186,7 +186,7 @@ export default function Article() {
                 <p><strong>自然や社会の変化に関心を持つ</strong>：気候変動、技術の進歩、社会の動きなど、大きな変化の流れを知ることで、未来に備える意識が育ちます。<br/>ニュースや科学の話題に触れる習慣をつけましょう。</p>
 
                 <h2 id="chapter7">第7章：希望に満ちた未来のために</h2>
-                            <img src="/img/pageImg/2-7.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第7章：希望に満ちた未来のために" />
+                            <img src="./img/pageImg/2-7.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第7章：希望に満ちた未来のために" />
                 <h3 id="section7-1">7-1. 技術と人間性のバランス</h3>
                 <p>未来の社会では、テクノロジーがさらに発達し、私たちの生活や仕事を大きく変えていくでしょう。<br/>しかし、テクノロジーはあくまでも道具であり、それをどう使うかは私たち人間次第です。</p>
 
@@ -209,7 +209,7 @@ export default function Article() {
                 <p>大切なのは、自分が本当に大切にしたい価値観や目的を見つけ、それに向かって歩むことです。<br/>そしてその過程で、他の人々と協力し、支え合うことができれば、個人も社会も幸福に近づくことができるでしょう。</p>
 
                 <h2 id="chapter8">まとめ</h2>
-                            <img src="/img/pageImg/2-8.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="まとめ" />
+                            <img src="./img/pageImg/2-8.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="まとめ" />
                 <p>2050年の世界がどうなるかは、誰にも正確に予測できません。テクノロジーの発展、環境の変化、社会システムの転換など、大きな変化が予想される一方で、予期せぬ出来事も起こるでしょう。</p>
 
                 <p>しかし、確かなことが一つあります。それは、未来を形作るのは、ほかでもないみなさん自身だということです。<br/>歴史上のどの世代よりも、今の若い世代は未来を創造する力を持っています。</p>

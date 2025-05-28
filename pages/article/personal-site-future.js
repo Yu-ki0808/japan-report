@@ -27,7 +27,7 @@ export default function Article() {
                     デジタル社会における個人の表現方法、プライバシー、技術の民主化、そしてWeb3.0やメタバースといった新しい概念が個人ホームページにどのような影響を与えるのかを探っていきます。<br /></p>
 
                 <h2>1. 個人ホームページの歴史と現状</h2>
-                <img src="/img/pageImg/8-1.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="1. 個人ホームページの歴史と現状" />
+                <img src="./img/pageImg/8-1.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="1. 個人ホームページの歴史と現状" />
 
                 <h3>1.1 初期の個人ホームページ（1990年代）</h3>
                 <p>インターネットが一般に普及し始めた1990年代、個人ホームページは技術に精通した一部の人々によって作られていました。<br />
@@ -52,7 +52,7 @@ export default function Article() {
                     職種によっては、ポートフォリオ機能が重要な要素となり、仕事のサンプルを効果的に展示する方法が進化しています。<br /></p>
 
                 <h2>2. 技術トレンドと個人ホームページへの影響</h2>
-                <img src="/img/pageImg/8-2.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="2. 技術トレンドと個人ホームページへの影響" />
+                <img src="./img/pageImg/8-2.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="2. 技術トレンドと個人ホームページへの影響" />
 
                 <h3>2.1 AIと機械学習の影響</h3>
                 <p>人工知能と機械学習は、個人ホームページの作成から管理、コンテンツ生成まであらゆる面に革命をもたらしつつあります。<br />
@@ -89,7 +89,7 @@ export default function Article() {
                     こうした技術の発展により、「訪問する」から「体験する」へと個人ホームページの本質が変化していくでしょう。<br /></p>
 
                 <h2>3. コンテンツ戦略の進化</h2>
-                <img src="/img/pageImg/8-3.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="3. コンテンツ戦略の進化" />
+                <img src="./img/pageImg/8-3.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="3. コンテンツ戦略の進化" />
 
                 <h3>3.1 超パーソナライゼーションの時代</h3>
                 <p>AIと機械学習の進化により、訪問者一人ひとりに合わせたコンテンツ表示が可能になります。<br />
@@ -125,7 +125,7 @@ export default function Article() {
                     また、コンテンツの「再組み立て」が自動化され、AIがユーザーに最適な形式と粒度でコンテンツを提示するようになるでしょう。<br /></p>
 
                 <h2>4. プライバシーとセキュリティの進化</h2>
-                <img src="/img/pageImg/8-4.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="4. プライバシーとセキュリティの進化" />
+                <img src="./img/pageImg/8-4.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="4. プライバシーとセキュリティの進化" />
 
                 <h3>4.1 プライバシーファーストの設計</h3>
                 <p>データ保護規制（GDPR、CCPA、各国の個人情報保護法など）の強化に伴い、プライバシーを中心に据えた設計が標準になっていきます。<br />
@@ -152,7 +152,7 @@ export default function Article() {
                     これらの技術により、オンライン上での詐欺や偽装が減少し、真正性を持つデジタルアイデンティティの価値が高まるでしょう。<br /></p>
 
                 <h2>5. マネタイズの新たな形</h2>
-                <img src="/img/pageImg/8-5.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="5. マネタイズの新たな形" />
+                <img src="./img/pageImg/8-5.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="5. マネタイズの新たな形" />
 
                 <h3>5.1 クリエイターエコノミーの発展</h3>
                 <p>従来の広告モデルに依存しない、多様な収益化戦略が個人ホームページで採用されるようになります。<br />
@@ -181,7 +181,7 @@ export default function Article() {
                     こうした変化により、個人の知識労働の提供方法が根本から再構築され、グローバルな知識共有が促進されることが期待されます。<br /></p>
 
                 <h2>6. コミュニティとソーシャル機能の進化</h2>
-                <img src="/img/pageImg/8-6.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="6. コミュニティとソーシャル機能の進化" />
+                <img src="./img/pageImg/8-6.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="6. コミュニティとソーシャル機能の進化" />
                 <h3>6.1 分散型ソーシャルプラットフォームとの統合</h3>
                 <p>中央集権型SNSへの依存から脱却し、個人ホームページが分散型ソーシャルネットワークのノードとして機能するようになるでしょう。<br />
                     ActivityPub、Matrixなどの分散型プロトコルの採用により、独自ドメインを持ちながらもソーシャルグラフを維持できるようになります。<br />
@@ -209,7 +209,7 @@ export default function Article() {
                     こうした変化により、個人ホームページは単なる「見せる場所」から「共に在る場所」へと本質的な転換を遂げていきます。<br /></p>
 
                 <h2>7. 個人ブランディングとオンラインプレゼンス</h2>
-                <img src="/img/pageImg/8-7.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="7. 個人ブランディングとオンラインプレゼンス" />
+                <img src="./img/pageImg/8-7.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="7. 個人ブランディングとオンラインプレゼンス" />
 
                 <h3>7.1 統合的デジタルアイデンティティ</h3>
                 <p>デジタルプラットフォームが増殖する中、個人ホームページはバラバラのオンラインプレゼンスを統合する中心的ハブとしての役割を強めていくでしょう。<br />
@@ -237,7 +237,7 @@ export default function Article() {
                     こうしたツールにより、個人クリエイターやフリーランサーも大企業並みのオーディエンス理解と関係構築が可能になります。<br /></p>
 
                 <h2>8. Web3と分散型ウェブの可能性</h2>
-                <img src="/img/pageImg/8-8.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="8. Web3と分散型ウェブの可能性" />
+                <img src="./img/pageImg/8-8.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="8. Web3と分散型ウェブの可能性" />
 
                 <h3>8.1 分散型ホスティングと永続性</h3>
                 <p>従来の中央集権型ホスティングから分散型インフラへの移行が進み、検閲耐性と永続性を持つホームページが登場するでしょう。<br />
@@ -264,7 +264,7 @@ export default function Article() {
                     こうした変化は、知識の民主化と創造的コラボレーションを促進しながらも、創作者への適切な報酬を確保する新しいバランスをもたらすかもしれません。<br /></p>
 
                 <h2>9. 未来の個人ホームページモデル予測</h2>
-                <img src="/img/pageImg/8-9.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="9. 未来の個人ホームページモデル予測" />
+                <img src="./img/pageImg/8-9.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="9. 未来の個人ホームページモデル予測" />
 
                 <h3>9.1 AIアシスタント統合型個人サイト</h3>
                 <p>AIの発展により、個人ホームページは「静的コンテンツの集合体」から「インテリジェントな対話型エージェント」へと進化する可能性があります。<br />
@@ -299,7 +299,7 @@ export default function Article() {
                     こうした変化により、「ウェブサイトを訪問する」という行為自体が再定義され、デジタルと物理の境界があいまいになった「混合現実」が日常となっていくかもしれません。<br /></p>
 
                 <h2>10. 結論：個人ホームページの持続的価値</h2>
-                <img src="/img/pageImg/8-10.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="10. 結論：個人ホームページの持続的価値" />
+                <img src="./img/pageImg/8-10.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="10. 結論：個人ホームページの持続的価値" />
 
                 <h3>10.1 デジタル主権と自己表現の重要性</h3>
                 <p>テクノロジーの進化とプラットフォームの変遷を経ても、自分自身のデジタル空間を持つという概念は、今後も重要性を増していくでしょう。<br />

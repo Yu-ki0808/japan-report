@@ -26,7 +26,7 @@ export default function Article() {
                     これらの問題は、高度経済成長期に形成された雇用慣行、意思決定プロセス、教育システム、そして根底にある文化的価値観に起因している。
                     本レポートでは、政策立案者、企業経営者、そして個人それぞれのレベルで実行可能な改善策を提案するとともに、急速に変化する労働環境において、次世代の日本人が身につけるべきスキルと学習領域について包括的な指針を示す。</AutoBreakP>
                 <h2>日本の失われた30年について</h2>
-                <img src="/img/pageImg/1-2.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="日本の30年について" />
+                <img src="./img/pageImg/1-2.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="日本の30年について" />
                 <AutoBreakP className="pageText">日本経済は1990年代初頭のバブル崩壊以降、「失われた30年」と呼ばれる長期停滞に直面している。世界第3位のGDP規模を誇りながらも、一人当たりGDPはOECD諸国中で中位に留まり、労働生産性の伸び率は先進国の中で最低水準にある。
                     同時に、日本の労働者の職場における満足度やモチベーションを示す従業員エンゲージメントは、国際調査において常に最下位グループに位置している。
 
@@ -36,12 +36,12 @@ export default function Article() {
                     本レポートでは、これらの問題について、歴史的・文化的背景から組織構造、雇用慣行、教育システムに至る多様な視点から詳細に分析し、実効性のある解決策を提案する。
                     さらに、AI、ロボティクス、グローバル化が急速に進展する将来の労働環境において、日本人が競争力と幸福を両立させるために必要なスキルセットとキャリア戦略について具体的に論じる。</AutoBreakP>
                 <h2>国際比較から見る日本の生産性の現状</h2>
-                <img src="/img/pageImg/1-3.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="国際比較から見る日本の生産性の現状" />
+                <img src="./img/pageImg/1-3.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="国際比較から見る日本の生産性の現状" />
                 <AutoBreakP className="pageText">
                     日本経済は1990年代初頭のバブル崩壊以降、「失われた30年」と呼ばれる長期停滞に直面している。世界第3位のGDP規模を誇りながらも、一人当たりGDPはOECD諸国中で中位に留まり、労働生産性の伸び率は先進国の中で最低水準にある。
                     OECDの最新データ（2025年時点で取得できるデータ）によれば、日本の労働生産性（就業者一人当たりGDP）は約8万4千ドルで、OECD加盟38カ国中24位に位置している。
                 </AutoBreakP>
-                <img src="/img/pageImg/japan-Graph.png" className="imageBlock" style={{ objectFit: 'cover', width: '50%', margin: '0 auto', display: 'block' }} alt="トップのアイルランド（約16万9千ドル）の半分程度、米国（約11万7千ドル）と比較しても約30%低い水準" />
+                <img src="./img/pageImg/japan-Graph.png" className="imageBlock" style={{ objectFit: 'cover', width: '50%', margin: '0 auto', display: 'block' }} alt="トップのアイルランド（約16万9千ドル）の半分程度、米国（約11万7千ドル）と比較しても約30%低い水準" />
                 <AutoBreakP className="pageText">
                     G7諸国の中では最下位であり、トップのアイルランド（約16万9千ドル）の半分程度、米国（約11万7千ドル）と比較しても約30%低い水準にある。
                     特に注目すべきは生産性の伸び率の停滞である。
@@ -109,7 +109,7 @@ export default function Article() {
                 </ul>
 
                 <h2>従業員エンゲージメントの危機</h2>
-                <img src="/img/pageImg/1-5.png" className="imageBlock" alt="従業員エンゲージメントの危機" />
+                <img src="./img/pageImg/1-5.png" className="imageBlock" alt="従業員エンゲージメントの危機" />
                 <AutoBreakP className="pageText">
                     「従業員エンゲージメント」とは、従業員が自らの仕事や組織に対して感じる情緒的なコミットメントと熱意の度合いを指す。
                     具体的には、仕事への没頭度、主体的な関与、組織目標への共感度などで測定される。
@@ -130,7 +130,7 @@ export default function Article() {
                 </ul>
 
                 <h2>低エンゲージメントの根本原因</h2>
-                <img src="/img/pageImg/1-6.png" className="imageBlock" alt="低エンゲージメントの根本原因" />
+                <img src="./img/pageImg/1-6.png" className="imageBlock" alt="低エンゲージメントの根本原因" />
                 <h3>1. 職場環境と組織文化の問題</h3>
                 <ul>
                     <li><strong>階層的組織構造と権限委譲の不足</strong>：多くの日本企業では、決定権が上位層に集中し、現場レベルでの裁量権が限られている。
@@ -177,7 +177,7 @@ export default function Article() {
                 <AutoBreakP className="pageText">
                     こうした若年世代の価値観の変化に対応できない企業文化や人事制度が、エンゲージメント低下の一因となっている。</AutoBreakP>
                 <h2>生産性・エンゲージメント向上のための総合戦略</h2>
-                <img src="/img/pageImg/1-7.png" className="imageBlock" alt="生産性・エンゲージメント向上のための総合戦略" />
+                <img src="./img/pageImg/1-7.png" className="imageBlock" alt="生産性・エンゲージメント向上のための総合戦略" />
                 <AutoBreakP className="pageText">
                     日本の生産性と従業員エンゲージメントの同時向上を実現するためには、政策、企業経営、個人の各レベルでの統合的なアプローチが必要であり、以下、各レベルでの具体的な改革提言を示す。
                 </AutoBreakP>
@@ -200,7 +200,7 @@ export default function Article() {
                     <li><strong>グローバル教育の推進</strong>：英語教育の実用性向上、留学プログラムの拡充、国際バカロレア認定校の増加などを通じて、グローバル人材の育成を加速する。</li>
                 </ul>
                 <h2>企業レベルの改革</h2>
-                <img src="/img/pageImg/1-8.png" className="imageBlock" alt="企業レベルの改革" />
+                <img src="./img/pageImg/1-8.png" className="imageBlock" alt="企業レベルの改革" />
                 <h3>1. 組織構造と意思決定プロセスの変革</h3>
                 <ul>
                     <li><strong>権限委譲と意思決定の迅速化</strong>：現場レベルへの大幅な権限委譲により、顧客ニーズへの迅速な対応と従業員の当事者意識を高める。具体的には、予算執行権限の拡大、稟議プロセスの簡素化、マネージャーの承認範囲の拡大などが挙げられる。</li>
@@ -230,7 +230,7 @@ export default function Article() {
                     <li><strong>多様性を活かすインクルーシブリーダーシップ</strong>：性別、年齢、国籍、バックグラウンドの異なるメンバーの強みを最大化し、多様な視点からのイノベーションを促進できるリーダーシップ能力を開発する。</li>
                 </ul>
                 <h2>個人レベルの戦略</h2>
-                <img src="/img/pageImg/1-9.png" className="imageBlock" alt="個人レベルの戦略" />
+                <img src="./img/pageImg/1-9.png" className="imageBlock" alt="個人レベルの戦略" />
                 <AutoBreakP className="pageText">
                     生産性と従業員エンゲージメントの向上は、政策や企業の取り組みだけでなく、個人の主体的な行動変容も不可欠であり、個人レベルでの取り組みを以下の指針を示す。
                 </AutoBreakP>
@@ -255,7 +255,7 @@ export default function Article() {
                     <li><strong>目的と意義の明確化</strong>：日々の業務と自身の価値観や大きな目標とのつながりを意識的に見出し、仕事に対する内発的動機づけを高める。これは、特に単調でルーティン的な業務に従事する場合に重要である。</li>
                 </ul>
                 <h2>未来を生きる人々のためのキャリア戦略とスキル開発</h2>
-                <img src="/img/pageImg/1-10.png" className="imageBlock" alt="未来を生きる人々のためのキャリア戦略とスキル開発" />
+                <img src="./img/pageImg/1-10.png" className="imageBlock" alt="未来を生きる人々のためのキャリア戦略とスキル開発" />
                 <AutoBreakP className="pageText">
                     AI、ロボティクス、グローバル化、人口動態の変化など、働く環境は急速に変化し、未来の労働市場で競争力を維持し、充実したキャリアを築くためには、従来型の「企業内キャリア」の発想を超えた、新たな視点とスキルセットが必要となる。以下、これからの時代を生き抜くための指針を示す。
                 </AutoBreakP>
@@ -279,7 +279,7 @@ export default function Article() {
                         これにより、ITの専門家とビジネスサイドの境界が曖昧になり、より多くの人が技術的なソリューション創出に参画できるようになる。</li>
                 </ul>
                 <h2>未来の労働市場で求められるスキルセット</h2>
-                <img src="/img/pageImg/1-11.png" className="imageBlock" alt="未来の労働市場で求められるスキルセット" />
+                <img src="./img/pageImg/1-11.png" className="imageBlock" alt="未来の労働市場で求められるスキルセット" />
                 <AutoBreakP className="pageText">
                     急速に変化する環境において、特定の技術的スキルの有効期限は短くなる傾向にある。
                     そのため、基盤となる「メタスキル」（学び方を学ぶ能力）と、時代を超えて価値を持つ「普遍的スキル」の獲得が重要である。
@@ -319,7 +319,7 @@ export default function Article() {
                         専門分野のトレンドを把握し、5年ごとに専門性の棚卸しと更新計画を立てることが推奨される。</li>
                 </ul>
                 <h2>学習すべき領域とアプローチ</h2>
-                <img src="/img/pageImg/1-12.png" className="imageBlock" alt="学習すべき領域とアプローチ" />
+                <img src="./img/pageImg/1-12.png" className="imageBlock" alt="学習すべき領域とアプローチ" />
                 <AutoBreakP className="pageText">
                     未来の労働市場で求められるスキルを効果的に習得するためには、体系的な学習戦略と継続的な実践が不可欠である。
                     以下、主要な学習領域と効果的なアプローチを示す。
@@ -349,7 +349,7 @@ export default function Article() {
                         「才能や能力は努力によって発達する」という成長マインドセット（Growth Mindset）を持ち、失敗を学びの機会と捉える姿勢が長期的な成功につながる。</li>
                 </ul>
                 <h2>推奨される具体的リソースと学習経路</h2>
-                <img src="/img/pageImg/1-13.png" className="imageBlock" alt="推奨される具体的なリソースと学習経路" />
+                <img src="./img/pageImg/1-13.png" className="imageBlock" alt="推奨される具体的なリソースと学習経路" />
                 <h3>1. 初学者向けデジタルスキル習得経路</h3>
                 <ul>
                     <li>Googleデジタルワークショップ（基礎的デジタルマーケティングスキル）</li>
@@ -379,7 +379,7 @@ export default function Article() {
                     <li>分野横断型ハッカソンやアイデアソンへの参加</li>
                 </ul>
                 <h2>結論：日本社会の持続的発展に向けて</h2>
-                <img src="/img/pageImg/1-14.png" className="imageBlock" alt="結論：日本社会の持続的発展に向けて" />
+                <img src="./img/pageImg/1-14.png" className="imageBlock" alt="結論：日本社会の持続的発展に向けて" />
                 <AutoBreakP className="pageText">
                     日本の労働生産性と従業員エンゲージメントの低迷という構造的課題について詳細に分析し、政策、企業、個人の各レベルでの解決策と未来への戦略を提示してきた。
                     これらの分析と提言を踏まえ、結論として以下の五つのキーメッセージを強調したい。
@@ -434,7 +434,7 @@ export default function Article() {
 
                     多様性と包摂性は、単なる「社会的責任」や「公平性の確保」という観点を超え、日本社会の持続的成長と国際競争力向上のための戦略的投資として位置づけられるべきである。                </AutoBreakP>
             <h2>最後に</h2>
-            <img src="/img/pageImg/1-15.png" className="imageBlock" alt="最後に" />
+            <img src="./img/pageImg/1-15.png" className="imageBlock" alt="最後に" />
             <AutoBreakP className="pageText">
                 産性と従業員エンゲージメントの向上という課題は、一朝一夕に解決できるものではないが、政策立案者、経営者、そして働く個人の協調的な取り組みにより、着実な改善が可能である。
 

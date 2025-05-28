@@ -27,7 +27,7 @@ export default function Article() {
                     そして今、私たちは人工知能（AI）という新たな変革の波に直面しています。<br />
                 </p>
                 <h2 id="introduction">1. WEBデザインとAIの現状</h2>
-                <img src="/img/pageImg/3-1.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="1. WEBデザインとAIの現状" />
+                <img src="./img/pageImg/3-1.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="1. WEBデザインとAIの現状" />
 
                 <h3>1.1 現代のWEBデザイン状況</h3>
 
@@ -80,7 +80,7 @@ export default function Article() {
                 </p>
 
                 <h2 id="short-term">2. 短期的展望（今後10年間：2023-2033）</h2>
-                <img src="/img/pageImg/3-2.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="2. 短期的展望（今後10年間：2023-2033）" />
+                <img src="./img/pageImg/3-2.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="2. 短期的展望（今後10年間：2023-2033）" />
 
 
                 <h3>2.1 技術的進化：AIとの共創時代の幕開け</h3>
@@ -399,7 +399,7 @@ export default function Article() {
                 </p>
 
                 <h2 id="mid-term">3. 中期的展望（今後20年間：2023-2043）</h2>
-                <img src="/img/pageImg/3-3.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="3. 中期的展望（今後20年間：2023-2043）" />
+                <img src="./img/pageImg/3-3.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="3. 中期的展望（今後20年間：2023-2043）" />
 
                 <h3>3.1 技術的変革：知性と自律性の時代</h3>
 
@@ -688,7 +688,7 @@ export default function Article() {
                 </p>
 
                 <h2 id="long-term">4. 長期的展望（今後30年間：2023-2053）</h2>
-                <img src="/img/pageImg/3-4.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="4. 長期的展望（今後30年間：2023-2053）" />
+                <img src="./img/pageImg/3-4.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="4. 長期的展望（今後30年間：2023-2053）" />
 
                 <h3>4.1 技術的特異点の先にあるデザイン</h3>
 
@@ -890,7 +890,7 @@ export default function Article() {
                 </p>
 
                 <h2 id="skills-roadmap">5. 将来のデザイナーのためのスキルロードマップ</h2>
-                <img src="/img/pageImg/3-5.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="5. 将来のデザイナーのためのスキルロードマップ" />
+                <img src="./img/pageImg/3-5.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="5. 将来のデザイナーのためのスキルロードマップ" />
 
                 <p>
                     これまでの分析に基づき、現在のデザイナーや将来デザイン分野に進むことを考えている人々のための実践的なロードマップを提案します。<br />
@@ -1042,7 +1042,7 @@ export default function Article() {
                 </p>
 
                 <h2 id="conclusion">6. 結論：変化の波に乗るために</h2>
-                <img src="/img/pageImg/3-6.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="6. 結論：変化の波に乗るために" />
+                <img src="./img/pageImg/3-6.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="6. 結論：変化の波に乗るために" />
 
                 <p>
                     本レポートでは、今後30年間のWEBデザインの進化とそれに伴うスキル要件の変化について、広範な予測を行いました。<br />

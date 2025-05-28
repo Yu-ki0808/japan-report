@@ -41,7 +41,7 @@ export default function Article() {
                     これは日本社会における「レールから外れない生き方」を促す要因の一つともなっています。<br /></p>
 
                 <h2>歴史的背景による終身雇用制度と新卒一括採用の起源</h2>
-                <img src="/img/pageImg/7-1.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="歴史的背景による終身雇用制度と新卒一括採用の起源" />
+                <img src="./img/pageImg/7-1.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="歴史的背景による終身雇用制度と新卒一括採用の起源" />
 
                 <p>日本の新卒一括採用制度の起源は、明治時代後期から大正時代にかけて形成され始めたとされています。<br />
                     当初は、三井、三菱などの財閥系企業や官公庁が、エリート養成を目的として帝国大学などの卒業生を計画的に採用したことに始まります。<br />
@@ -77,7 +77,7 @@ export default function Article() {
                     特に、終身雇用の前提が揺らぎ始めたことで、新卒一括採用の在り方も問われるようになりました。<br /></p>
 
                 <h2>企業側のメリット：白紙状態の人材、コスト効率、企業文化の維持など</h2>
-                <img src="/img/pageImg/7-2.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="企業側のメリット：白紙状態の人材、コスト効率、企業文化の維持など" />
+                <img src="./img/pageImg/7-2.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="企業側のメリット：白紙状態の人材、コスト効率、企業文化の維持など" />
 
                 <p>日本企業が新卒一括採用制度を長年維持してきた背景には、企業側にとっての明確なメリットが存在します。<br />
                     その核心は「白紙状態の人材」の獲得と、それに伴う様々な経営上の利点にあります。<br /></p>
@@ -152,7 +152,7 @@ export default function Article() {
                     特に高度経済成長期からバブル期にかけては、この仕組みが日本企業の安定的な成長と拡大を下支えしたと言えるでしょう。<br /></p>
 
                 <h2>社会的側面：日本社会における新卒採用の位置づけ</h2>
-                <img src="/img/pageImg/7-3.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="社会的側面：日本社会における新卒採用の位置づけ" />
+                <img src="./img/pageImg/7-3.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="社会的側面：日本社会における新卒採用の位置づけ" />
                   <p>新卒採用制度は、単なる企業の人材確保の手段を超え、日本社会全体のシステムとして機能してきました。<br />
                     教育機関、学生、企業、そして社会全体がこの制度を中心に構築されており、日本人のライフコースや価値観にも大きな影響を与えています。<br /></p>
 
@@ -208,7 +208,7 @@ export default function Article() {
                 <p>しかし、1990年代以降のバブル崩壊と「就職氷河期」の到来は、この社会的安定性に亀裂を生じさせ、制度そのものへの疑問も投げかけることになりました。<br /></p>
 
                 <h2>批判的視点：同調圧力、過剰な企業忠誠心の醸成、「洗脳」的側面</h2>
-                <img src="/img/pageImg/7-4.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="批判的視点：同調圧力、過剰な企業忠誠心の醸成、「洗脳」的側面" />
+                <img src="./img/pageImg/7-4.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="批判的視点：同調圧力、過剰な企業忠誠心の醸成、「洗脳」的側面" />
 
                 <p>新卒一括採用制度は多くのメリットをもたらした一方で、日本社会に様々な歪みや問題点をもたらしたという批判的視点も存在します。<br />
                     特に近年は、グローバル化や価値観の多様化に伴い、この制度の持つ画一性や硬直性への批判が高まっています。<br /></p>
@@ -282,7 +282,7 @@ export default function Article() {
                     また、画一的なキャリアパスが前提となることで、多様な才能や可能性が活かされない社会的損失も生じています。<br /></p>
 
                 <h2>変化の兆し：近年の採用傾向の変化</h2>
-                <img src="/img/pageImg/7-5.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="変化の兆し：近年の採用傾向の変化" />
+                <img src="./img/pageImg/7-5.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="変化の兆し：近年の採用傾向の変化" />
 
                 <p>バブル経済崩壊以降、特に2000年代以降、伝統的な新卒一括採用制度に様々な変化の兆しが見られるようになりました。<br />
                     グローバル化、テクノロジーの進化、働き方の多様化などを背景に、企業の採用戦略や若者のキャリア観にも変化が生じています。<br /></p>
@@ -377,7 +377,7 @@ export default function Article() {
                     留学経験者、社会人経験者、外国籍の学生など、多様なバックグラウンドを持つ人材を積極的に評価する動きが広がっています。<br /></p>
 
                 <h2>国際比較：他国の採用システムとの違い</h2>
-                <img src="/img/pageImg/7-6.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="国際比較：他国の採用システムとの違い" />
+                <img src="./img/pageImg/7-6.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="国際比較：他国の採用システムとの違い" />
                 <p>日本の新卒一括採用制度は、国際的に見ても特異な採用システムです。<br />
                     他国では異なる採用慣行が一般的であり、それぞれの社会的・文化的背景を反映しています。<br />
                     ここでは主要国との比較を通じて、日本の採用システムの特徴と違いを明らかにします。<br /></p>
@@ -455,7 +455,7 @@ export default function Article() {
                     フランスやスペインなど若年失業率が高い国々と比較すると、日本の制度は少なくとも「学校から職場へのトランジション」を円滑にする機能を果たしていると言えます。<br /></p>
 
                 <h2>これからの展望：日本企業と新卒採用の未来</h2>
-                <img src="/img/pageImg/7-7.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="これからの展望：日本企業と新卒採用の未来" />
+                <img src="./img/pageImg/7-7.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="これからの展望：日本企業と新卒採用の未来" />
                 <p>日本の新卒採用システムは、社会経済環境の変化に応じて転換期を迎えています。<br />
                     少子高齢化、グローバル化、デジタルトランスフォーメーション、働き方改革など、様々な要因が日本企業の採用戦略の再考を促しています。<br />
                     ここでは、これからの日本企業と新卒採用の未来について考察します。<br /></p>
@@ -545,7 +545,7 @@ export default function Article() {
                 <p>ただし、日本の採用システムの良さを完全に捨て去るのではなく、長期的視点での人材育成や組織への帰属意識の醸成など、日本型雇用システムの強みを活かしながらグローバルスタンダードと調和させていく「折衷モデル」が主流になると予想されます。<br /></p>
 
                 <h2>結論</h2>
-                <img src="/img/pageImg/7-8.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="結論" />
+                <img src="./img/pageImg/7-8.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="結論" />
                 <p>日本の新卒一括採用制度は、高度経済成長期からバブル期にかけての日本企業の競争力を支える重要な基盤でした。<br />
                     「白紙状態」の若者を採用し、長期的な視点で育成することで、高い組織忠誠心と専門性を兼ね備えた人材を生み出してきたこのシステムは、日本の経済発展に大きく貢献してきました。<br /></p>
 

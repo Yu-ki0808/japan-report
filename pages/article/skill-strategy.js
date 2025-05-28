@@ -43,7 +43,7 @@ export default function Article() {
                 </p>
 
                 <h2>第1章：2050年の世界経済と働き方の革命的変化</h2>
-                <img src="/img/pageImg/3-1.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第1章：2050年の世界経済と働き方の革命的変化" />
+                <img src="./img/pageImg/3-1.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第1章：2050年の世界経済と働き方の革命的変化" />
 
                 <h3>1-1. 第四次産業革命の完全成熟期へ</h3>
 
@@ -97,7 +97,7 @@ export default function Article() {
                 </p>
 
                 <h2>第2章：未来を生き抜くための5つの基本マインドセット</h2>
-                <img src="/img/pageImg/3-2.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第2章：未来を生き抜くための5つの基本マインドセット" />
+                <img src="./img/pageImg/3-2.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第2章：未来を生き抜くための5つの基本マインドセット" />
 
                 <h3>2-1. 「所有」から「アクセス」へのパラダイムシフト</h3>
 
@@ -189,7 +189,7 @@ export default function Article() {
                 </p>
 
                 <h2>第3章：2050年に価値を持ち続ける10のスキルセット</h2>
-                <img src="/img/pageImg/3-3.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第3章：2050年に価値を持ち続ける10のスキルセット" />
+                <img src="./img/pageImg/3-3.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第3章：2050年に価値を持ち続ける10のスキルセット" />
 
                 <h3>3-1. 高度AI活用とプロンプトエンジニアリング能力</h3>
 
@@ -378,7 +378,7 @@ export default function Article() {
                     将来のリーダーには、利益と社会的責任のバランスを取りながら意思決定を行う能力が求められます。
                 </p>
                 <h2>第4章：2050年に繁栄する職種と衰退する職種</h2>
-                <img src="/img/pageImg/3-4.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第4章：2050年に繁栄する職種と衰退する職種" />
+                <img src="./img/pageImg/3-4.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第4章：2050年に繁栄する職種と衰退する職種" />
 
                 <h3>4-1. テクノロジー進化による職業地図の再編</h3>
 
@@ -526,7 +526,7 @@ export default function Article() {
                 </p>
 
                 <h2>第5章：2050年を見据えたキャリア戦略の実践</h2>
-                <img src="/img/pageImg/3-5.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第5章：2050年を見据えたキャリア戦略の実践" />
+                <img src="./img/pageImg/3-5.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第5章：2050年を見据えたキャリア戦略の実践" />
 
                 <h3>5-1. マルチキャリアとポートフォリオワークの設計</h3>
 
@@ -687,7 +687,7 @@ export default function Article() {
                 </p>
 
                 <h2>第6章：仕事とライフスタイルの統合による持続可能な成功の基盤</h2>
-                <img src="/img/pageImg/3-6.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第6章：仕事とライフスタイルの統合による持続可能な成功の基盤" />
+                <img src="./img/pageImg/3-6.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第6章：仕事とライフスタイルの統合による持続可能な成功の基盤" />
 
                 <h3>6-1. 健康資本：最も重要な長期投資</h3>
 
@@ -848,7 +848,7 @@ export default function Article() {
                     また、住空間についても、「仕事モード」と「生活モード」を明確に区分けできる工夫を取り入れることで、両方の質を高めることができます。
                 </p>
                 <h2>第7章：未来へのアクションプラン</h2>
-                <img src="/img/pageImg/3-7.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第7章：未来へのアクションプラン" />
+                <img src="./img/pageImg/3-7.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="第7章：未来へのアクションプラン" />
 
                 <h3>7-1. 25年スパンのキャリアビジョン設計</h3>
 
@@ -952,7 +952,7 @@ export default function Article() {
                 <p>また、自己評価だけでなく、信頼できる他者からのフィードバックも積極的に求めることが重要です。<br/>メンター、同僚、友人、専門的コミュニティのメンバーなど、多様な視点からの意見は、自分では気づかない盲点を発見する助けとなります。</p>
 
                 <h2>結論：不確実な時代における確かな航路</h2>
-                <img src="/img/pageImg/3-8.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="結論：不確実な時代における確かな航路" />
+                <img src="./img/pageImg/3-8.png" className="imageBlock" style={{ objectFit: 'cover' }} alt="結論：不確実な時代における確かな航路" />
 
                 <p>2050年に向けた25年間の道のりは、人類史上かつてない速度と規模の変化に満ちています。<br/>AIとロボティクスの進化、気候変動と資源制約、人口動態の劇的な変化、グローバル秩序の再編など、私たちが直面する変化の波は複雑に絡み合い、単線的な予測を困難にしています。</p>
 
